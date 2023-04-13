@@ -1,3 +1,3 @@
 # stacjonarny-VR
 
-Projekt lobby do konkursy HISTHACK
+**Projekt lobby do konkursy HISTHACK.**
